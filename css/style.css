@@ -3,7 +3,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #F9FAFB;
+    background-color: #0c1a2a;
     color: #333;
     margin: 0;
     padding: 0;
@@ -13,21 +13,21 @@ body {
     max-width: 600px;
     margin: 40px auto;
     padding: 20px;
-    background: #fff;
+    background: #164d75;
     border-radius: 16px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 10px 80px rgba(0, 0, 0, 1);
     text-align: center;
 }
 
 h1 {
     font-size: 2rem;
     font-weight: 700;
-    color: #4A90E2;
+    color: #fff;
     margin-bottom: 20px;
 }
 
 #my-button {
-    background-color: #4A90E2;
+    background-color: #122941;
     color: #fff;
     border: none;
     padding: 12px 24px;
@@ -40,7 +40,7 @@ h1 {
 }
 
 #my-button:hover {
-    background-color: #357ABD;
+    background-color: #0c1a2a;
 }
 
 #email-list {
@@ -48,6 +48,7 @@ h1 {
     padding: 0;
     margin-top: 20px;
     text-align: left;
+    height: 550px;
 }
 
 #email-list li {
